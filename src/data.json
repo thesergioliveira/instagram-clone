@@ -1,136 +1,84 @@
 [
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 1,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    },
-    {
-        "id": 0,
-        "title": "Schalachtensee",
-        "location": "Berlin",
-        "text": "Enjoining my day...",
-        "likes": 23542,
-        "comments": 2345,
-        "img": "./"
-    }
+  {
+    "id": 0,
+    "title": "Happy Hanukka!",
+    "location": "USA",
+    "text": "This year feels like a good time to celebrate overcoming adversity by frying delicious jelly donuts",
+    "likes": 403000,
+    "comments": 398000,
+    "img": "./img/donut.jpg"
+  },
+  {
+    "id": 1,
+    "title": "New Years :)",
+    "location": "USA",
+    "text": "Here's to a great 2019",
+    "likes": 509000,
+    "comments": 16000,
+    "img": "./img/champagne.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Surfing",
+    "location": "USA",
+    "text": "@kain_lenny Am I doing this right?",
+    "likes": 19329408,
+    "comments": 23412345,
+    "img": "./img/surf.jpg"
+  },
+  {
+    "id": 3,
+    "title": "With Gay Leking",
+    "location": "USA",
+    "text": "Thanks to @galeking for visiting our home to talk about our work at the @chanzuckerberinitiave! Four years ago when Max was born, we committed to giving away 99% of our health",
+    "likes": 23542,
+    "comments": 2345,
+    "img": "./img/gay-leking"
+  },
+
+  {
+    "id": 4,
+    "title": "Red Carpet",
+    "location": "NASA Ames Research Center",
+    "text": "Priscilla and I helped found the Breakthrough Prize to celebrate top scientific achievements in physics math and life sciences.",
+    "likes": 2334542,
+    "comments": 234345,
+    "img": "./img/red-carpet.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Training",
+    "location": "Facebook New York",
+    "text": "Stopped by to see @mosseri and a few publishers and creators talking about the future of media",
+    "likes": 346642,
+    "comments": 34565,
+    "img": "./img/training.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Doggy",
+    "location": "Home",
+    "text": "Happy 9th birhday Beast, you crazy dog!",
+    "likes": 987645,
+    "comments": 43566,
+    "img": "./img/doggy.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Stand up",
+    "location": "",
+    "text": "Tahoe sunset",
+    "likes": 734563,
+    "comments": 452346,
+    "img": "./img/standup.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Beast in the garden",
+    "location": "Home",
+    "text": "Had a nice day outside, enjoying the garden",
+    "likes": 23234,
+    "comments": 56235,
+    "img": "./img/doggy-outside.jpg"
+  }
 ]
